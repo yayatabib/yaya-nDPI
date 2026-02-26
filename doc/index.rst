@@ -17,6 +17,7 @@ nDPI is an open source DPI (Deep Packet Inspection) toolkit for traffic analysis
    api/library_root
    configuration_parameters
    library_initialization
+   dissector_architecture
    monitoring
    protocols
    flow_risks
